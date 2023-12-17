@@ -8,11 +8,7 @@
 <br>
 -  🧠I’m currently learning Multi-Target Regression & Species Distribution Modeling  
   
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<br>
 
 ### Languages and Tools  
 <div align="center">  
