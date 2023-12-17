@@ -1,9 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Tao Yu</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<br />
   
 
-### <div align="center">I'm Tao Yu, a senior undergraduate student at Soochow University and will be pursuing a Master degree at the School of Software Engineering, Sun Yat-sen University🚀</div>  
+### <div align="center">I'm a senior undergraduate student at Soochow University and will be pursuing a Master degree at the School of Software Engineering, Sun Yat-sen University🚀</div>  
 ---
 <br>
 -  🧠I’m currently learning Multi-Target Regression & Species Distribution Modeling  
