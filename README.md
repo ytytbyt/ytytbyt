@@ -1,7 +1,6 @@
+<!--ola
 ### Hi there 👋
-
-<!--
-**ytytbyt/ytytbyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alansmathew/alansmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p align="center">
   <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/skills.gif" alt="lang image here" />
@@ -38,3 +36,9 @@ Here are some ideas to get you started:
         <img width="30%" src="lang.gif" alt="lang image here" />
     </picture>
 </p>
+
+
+🔭 I’m currently working as an iOS Developer<br>
+🤔 I’m looking forward to connect individuals with UI/UX knowledge<br>
+💬 Ask me about SWIFT and always humble to learn more about swift and swiftUI<br>
+📫 How to reach me: alansmathew@icloud.com<br>
