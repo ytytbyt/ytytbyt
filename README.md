@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Tao Yu</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
+<br>
   
 
 ### <div align="center">I'm a senior undergraduate student at Soochow University and will be pursuing a Master degree at the School of Software Engineering, Sun Yat-sen University🚀</div>  
