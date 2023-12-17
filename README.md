@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm <a href="https://www.blackcater.win/" target="_blank">Tao Yu</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<br>
   
 
 ### <div align="center">I'm a senior undergraduate student at Soochow University and will be pursuing a Master degree at the School of Software Engineering, Sun Yat-sen University🚀</div>  
@@ -25,3 +23,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="yutao2816@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
+
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
+
+- #### 🧠I’m currently learning Multi-Target Regression & Species Distribution Modeling  
+  
+
+<br/>  
