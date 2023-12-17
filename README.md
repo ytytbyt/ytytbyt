@@ -12,9 +12,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br>
 <br>
 <br>
-<a href="yutao2816@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-</a>
 
 ### Languages and Tools  
 <div align="center">  
@@ -23,7 +20,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
-
-
-
 <br/>  
+
+<a href="yutao2816@gmail.com">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
